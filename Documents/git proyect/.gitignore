@@ -1,0 +1,15 @@
+# Ignorar archivos y carpetas del sistema
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorar la carpeta node_modules si existe
+node_modules/
+
+# Ignorar la carpeta .vscode si existe
+.vscode/
+
+# Ignorar cualquier cosa fuera de tu carpeta de proyecto
+../*
